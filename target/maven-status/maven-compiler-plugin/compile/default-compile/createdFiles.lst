@@ -1,0 +1,8 @@
+com\SQLite\SB\example\dialect\SQLiteDialect.class
+com\SQLite\SB\example\entity\Student.class
+com\SQLite\SB\example\SpringBootAndSqLiteApplication.class
+dto\StudentDto.class
+com\SQLite\SB\example\service\StudentService.class
+com\SQLite\SB\example\repository\StudentRepository.class
+com\SQLite\SB\example\SwaggerConfig.class
+com\SQLite\SB\example\controller\StudentController.class
